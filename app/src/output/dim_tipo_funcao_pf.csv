@@ -1,0 +1,16 @@
+﻿tipo_funcao;pf_inclusao;pf_alteracao;pf_exclusao
+Dados Negócio/Integração;7.0;5.6;2.1
+Funcionalidade;4.6;3.68;1.38
+Componente / Microsserviço;1.1;0.88;0.33
+Dado de Código;4.6;3.68;1.38
+DEV compartilhado;2.3;1.84;0.69
+Expurgo de Dados;4.6;4.6;4.6
+Feature Flag (liga/desliga);4.6;3.68;1.38
+Funcionalidades apenas Testadas;1.15;1.15;1.15
+Merge;0.8;0.64;0.24
+Operações Lógicas e Matemáticas;4.6;3.68;1.38
+Parametrização / Configuração;1.2;1.2;1.2
+Plataforma Adicional;4.6;3.68;1.38
+Service Enablement;1.15;0.92;0.35
+UX - User Experience;1.15;1.15;1.15
+Outro;1.0;0.8;0.3

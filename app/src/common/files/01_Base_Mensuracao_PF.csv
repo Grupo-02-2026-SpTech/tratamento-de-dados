@@ -1,0 +1,121 @@
+HU_ID;Projeto;Sprint;Tipo;PF_Inicial;PF_Final;Complex_Inicial;Complex_Final;Valor_por_PF;Custo_Inicial;Custo_Final;Delta_PF;Delta_Custo
+HU_0001;SIGEAR;Sprint_1;Corretiva;22.3;20.3;Alta;Baixa;300;6690.0;6090.0;-2.0;-600.0
+HU_0002;PORTAL_WEB;Sprint_2;Corretiva;29.9;29.5;Baixa;Baixa;300;8970.0;8850.0;-0.4;-120.0
+HU_0003;PORTAL_WEB;Sprint_10;Nova Funcionalidade;37.2;26.5;Alta;Alta;300;11160.0;7950.0;-10.7;-3210.0
+HU_0004;GESTAO_RH;Sprint_4;Evolutiva;38.6;26.1;Baixa;Baixa;300;11580.0;7830.0;-12.5;-3750.0
+HU_0005;GESTAO_RH;Sprint_6;Evolutiva;16.1;9.9;Média;Baixa;300;4830.0;2970.0;-6.2;-1860.0
+HU_0006;SIGEAR;Sprint_7;Nova Funcionalidade;26.7;23.0;Média;Baixa;300;8010.0;6900.0;-3.7;-1110.0
+HU_0007;GESTAO_RH;Sprint_9;Nova Funcionalidade;58.6;49.7;Alta;Média;300;17580.0;14910.0;-8.9;-2670.0
+HU_0008;PORTAL_WEB;Sprint_15;Evolutiva;38.0;27.3;Baixa;Alta;300;11400.0;8190.0;-10.7;-3210.0
+HU_0009;BHPRO;Sprint_13;Evolutiva;59.2;38.9;Baixa;Média;300;17760.0;11670.0;-20.3;-6090.0
+HU_0010;FINANCE_APP;Sprint_8;Corretiva;51.4;48.1;Média;Baixa;300;15420.0;14430.0;-3.3;-990.0
+HU_0011;FINANCE_APP;Sprint_12;Corretiva;41.7;31.5;Baixa;Alta;300;12510.0;9450.0;-10.2;-3060.0
+HU_0012;BHPRO;Sprint_3;Evolutiva;27.7;16.7;Alta;Alta;300;8310.0;5010.0;-11.0;-3300.0
+HU_0013;PORTAL_WEB;Sprint_4;Corretiva;24.9;17.2;Baixa;Baixa;300;7470.0;5160.0;-7.7;-2310.0
+HU_0014;SIGEAR;Sprint_13;Evolutiva;28.9;28.1;Alta;Alta;300;8670.0;8430.0;-0.8;-240.0
+HU_0015;FINANCE_APP;Sprint_4;Corretiva;34.0;22.0;Alta;Média;300;10200.0;6600.0;-12.0;-3600.0
+HU_0016;BHPRO;Sprint_5;Nova Funcionalidade;20.8;16.1;Média;Alta;300;6240.0;4830.0;-4.7;-1410.0
+HU_0017;PORTAL_WEB;Sprint_7;Corretiva;28.8;26.3;Baixa;Alta;300;8640.0;7890.0;-2.5;-750.0
+HU_0018;GESTAO_RH;Sprint_2;Nova Funcionalidade;52.8;49.6;Baixa;Alta;300;15840.0;14880.0;-3.2;-960.0
+HU_0019;GESTAO_RH;Sprint_10;Nova Funcionalidade;28.0;21.3;Média;Alta;300;8400.0;6390.0;-6.7;-2010.0
+HU_0020;FINANCE_APP;Sprint_9;Nova Funcionalidade;43.4;41.4;Alta;Média;300;13020.0;12420.0;-2.0;-600.0
+HU_0021;FINANCE_APP;Sprint_2;Evolutiva;30.6;25.0;Alta;Alta;300;9180.0;7500.0;-5.6;-1680.0
+HU_0022;FINANCE_APP;Sprint_9;Nova Funcionalidade;34.4;32.9;Alta;Média;300;10320.0;9870.0;-1.5;-450.0
+HU_0023;PORTAL_WEB;Sprint_10;Nova Funcionalidade;15.9;11.1;Alta;Alta;300;4770.0;3330.0;-4.8;-1440.0
+HU_0024;SIGEAR;Sprint_10;Evolutiva;33.4;31.9;Média;Média;300;10020.0;9570.0;-1.5;-450.0
+HU_0025;BHPRO;Sprint_1;Nova Funcionalidade;53.7;33.4;Baixa;Alta;300;16110.0;10020.0;-20.3;-6090.0
+HU_0026;GESTAO_RH;Sprint_14;Nova Funcionalidade;58.9;46.3;Baixa;Baixa;300;17670.0;13890.0;-12.6;-3780.0
+HU_0027;GESTAO_RH;Sprint_9;Nova Funcionalidade;21.8;14.2;Média;Baixa;300;6540.0;4260.0;-7.6;-2280.0
+HU_0028;PORTAL_WEB;Sprint_13;Corretiva;43.9;31.4;Média;Alta;300;13170.0;9420.0;-12.5;-3750.0
+HU_0029;FINANCE_APP;Sprint_8;Corretiva;31.5;28.4;Baixa;Média;300;9450.0;8520.0;-3.1;-930.0
+HU_0030;SIGEAR;Sprint_10;Corretiva;20.0;18.2;Baixa;Alta;300;6000.0;5460.0;-1.8;-540.0
+HU_0031;SIGEAR;Sprint_4;Nova Funcionalidade;55.1;36.2;Baixa;Alta;300;16530.0;10860.0;-18.9;-5670.0
+HU_0032;BHPRO;Sprint_5;Corretiva;33.2;26.0;Alta;Alta;300;9960.0;7800.0;-7.2;-2160.0
+HU_0033;PORTAL_WEB;Sprint_8;Nova Funcionalidade;48.8;33.0;Baixa;Baixa;300;14640.0;9900.0;-15.8;-4740.0
+HU_0034;SIGEAR;Sprint_11;Evolutiva;26.4;22.1;Alta;Baixa;300;7920.0;6630.0;-4.3;-1290.0
+HU_0035;SIGEAR;Sprint_1;Evolutiva;45.9;31.2;Baixa;Baixa;300;13770.0;9360.0;-14.7;-4410.0
+HU_0036;BHPRO;Sprint_4;Corretiva;31.3;26.0;Média;Média;300;9390.0;7800.0;-5.3;-1590.0
+HU_0037;BHPRO;Sprint_14;Nova Funcionalidade;31.0;20.3;Alta;Baixa;300;9300.0;6090.0;-10.7;-3210.0
+HU_0038;SIGEAR;Sprint_11;Corretiva;51.5;31.5;Baixa;Baixa;300;15450.0;9450.0;-20.0;-6000.0
+HU_0039;GESTAO_RH;Sprint_8;Evolutiva;19.1;16.0;Baixa;Baixa;300;5730.0;4800.0;-3.1;-930.0
+HU_0040;GESTAO_RH;Sprint_1;Evolutiva;21.8;15.0;Média;Média;300;6540.0;4500.0;-6.8;-2040.0
+HU_0041;GESTAO_RH;Sprint_12;Corretiva;59.8;46.5;Alta;Média;300;17940.0;13950.0;-13.3;-3990.0
+HU_0042;BHPRO;Sprint_4;Evolutiva;19.3;18.8;Alta;Alta;300;5790.0;5640.0;-0.5;-150.0
+HU_0043;SIGEAR;Sprint_12;Evolutiva;11.0;8.4;Alta;Alta;300;3300.0;2520.0;-2.6;-780.0
+HU_0044;BHPRO;Sprint_1;Corretiva;12.2;11.3;Alta;Baixa;300;3660.0;3390.0;-0.9;-270.0
+HU_0045;BHPRO;Sprint_7;Nova Funcionalidade;57.0;44.0;Alta;Alta;300;17100.0;13200.0;-13.0;-3900.0
+HU_0046;SIGEAR;Sprint_10;Nova Funcionalidade;29.8;22.8;Alta;Média;300;8940.0;6840.0;-7.0;-2100.0
+HU_0047;FINANCE_APP;Sprint_4;Corretiva;45.2;40.9;Média;Baixa;300;13560.0;12270.0;-4.3;-1290.0
+HU_0048;FINANCE_APP;Sprint_8;Evolutiva;56.3;35.2;Baixa;Média;300;16890.0;10560.0;-21.1;-6330.0
+HU_0049;PORTAL_WEB;Sprint_10;Nova Funcionalidade;11.8;10.8;Média;Baixa;300;3540.0;3240.0;-1.0;-300.0
+HU_0050;FINANCE_APP;Sprint_15;Nova Funcionalidade;53.7;45.8;Baixa;Média;300;16110.0;13740.0;-7.9;-2370.0
+HU_0051;PORTAL_WEB;Sprint_12;Evolutiva;39.8;24.1;Alta;Alta;300;11940.0;7230.0;-15.7;-4710.0
+HU_0052;SIGEAR;Sprint_11;Corretiva;23.6;17.3;Baixa;Média;300;7080.0;5190.0;-6.3;-1890.0
+HU_0053;SIGEAR;Sprint_15;Nova Funcionalidade;46.6;43.7;Média;Alta;300;13980.0;13110.0;-2.9;-870.0
+HU_0054;BHPRO;Sprint_12;Evolutiva;18.6;13.9;Média;Alta;300;5580.0;4170.0;-4.7;-1410.0
+HU_0055;GESTAO_RH;Sprint_5;Nova Funcionalidade;12.8;10.6;Média;Baixa;300;3840.0;3180.0;-2.2;-660.0
+HU_0056;SIGEAR;Sprint_6;Nova Funcionalidade;41.1;36.8;Alta;Média;300;12330.0;11040.0;-4.3;-1290.0
+HU_0057;PORTAL_WEB;Sprint_12;Evolutiva;37.2;35.5;Alta;Baixa;300;11160.0;10650.0;-1.7;-510.0
+HU_0058;PORTAL_WEB;Sprint_1;Evolutiva;38.3;36.0;Baixa;Baixa;300;11490.0;10800.0;-2.3;-690.0
+HU_0059;FINANCE_APP;Sprint_6;Nova Funcionalidade;54.7;50.1;Baixa;Alta;300;16410.0;15030.0;-4.6;-1380.0
+HU_0060;SIGEAR;Sprint_6;Corretiva;54.0;45.2;Alta;Alta;300;16200.0;13560.0;-8.8;-2640.0
+HU_0061;BHPRO;Sprint_15;Nova Funcionalidade;53.0;32.3;Baixa;Média;300;15900.0;9690.0;-20.7;-6210.0
+HU_0062;SIGEAR;Sprint_3;Corretiva;56.1;38.5;Média;Alta;300;16830.0;11550.0;-17.6;-5280.0
+HU_0063;BHPRO;Sprint_5;Nova Funcionalidade;48.9;46.8;Baixa;Média;300;14670.0;14040.0;-2.1;-630.0
+HU_0064;BHPRO;Sprint_4;Evolutiva;26.2;17.6;Baixa;Baixa;300;7860.0;5280.0;-8.6;-2580.0
+HU_0065;SIGEAR;Sprint_11;Nova Funcionalidade;28.7;25.5;Baixa;Média;300;8610.0;7650.0;-3.2;-960.0
+HU_0066;FINANCE_APP;Sprint_11;Corretiva;28.8;17.5;Alta;Média;300;8640.0;5250.0;-11.3;-3390.0
+HU_0067;SIGEAR;Sprint_2;Evolutiva;17.3;10.6;Média;Baixa;300;5190.0;3180.0;-6.7;-2010.0
+HU_0068;SIGEAR;Sprint_10;Evolutiva;26.0;17.8;Média;Alta;300;7800.0;5340.0;-8.2;-2460.0
+HU_0069;PORTAL_WEB;Sprint_2;Evolutiva;54.8;50.6;Baixa;Alta;300;16440.0;15180.0;-4.2;-1260.0
+HU_0070;GESTAO_RH;Sprint_1;Corretiva;56.1;44.0;Alta;Alta;300;16830.0;13200.0;-12.1;-3630.0
+HU_0071;BHPRO;Sprint_6;Evolutiva;11.6;8.5;Média;Alta;300;3480.0;2550.0;-3.1;-930.0
+HU_0072;FINANCE_APP;Sprint_11;Nova Funcionalidade;45.4;39.9;Média;Alta;300;13620.0;11970.0;-5.5;-1650.0
+HU_0073;GESTAO_RH;Sprint_6;Evolutiva;44.3;34.5;Baixa;Média;300;13290.0;10350.0;-9.8;-2940.0
+HU_0074;GESTAO_RH;Sprint_11;Corretiva;54.9;41.4;Média;Média;300;16470.0;12420.0;-13.5;-4050.0
+HU_0075;PORTAL_WEB;Sprint_14;Nova Funcionalidade;23.8;21.8;Alta;Alta;300;7140.0;6540.0;-2.0;-600.0
+HU_0076;FINANCE_APP;Sprint_8;Evolutiva;31.0;28.4;Média;Alta;300;9300.0;8520.0;-2.6;-780.0
+HU_0077;BHPRO;Sprint_11;Nova Funcionalidade;22.8;16.7;Alta;Média;300;6840.0;5010.0;-6.1;-1830.0
+HU_0078;SIGEAR;Sprint_14;Nova Funcionalidade;43.0;39.1;Baixa;Baixa;300;12900.0;11730.0;-3.9;-1170.0
+HU_0079;SIGEAR;Sprint_1;Nova Funcionalidade;59.2;44.7;Baixa;Média;300;17760.0;13410.0;-14.5;-4350.0
+HU_0080;GESTAO_RH;Sprint_15;Corretiva;37.9;27.0;Média;Média;300;11370.0;8100.0;-10.9;-3270.0
+HU_0081;GESTAO_RH;Sprint_4;Nova Funcionalidade;42.1;42.0;Baixa;Média;300;12630.0;12600.0;-0.1;-30.0
+HU_0082;BHPRO;Sprint_3;Corretiva;34.9;34.2;Baixa;Baixa;300;10470.0;10260.0;-0.7;-210.0
+HU_0083;GESTAO_RH;Sprint_3;Evolutiva;42.7;25.8;Alta;Média;300;12810.0;7740.0;-16.9;-5070.0
+HU_0084;GESTAO_RH;Sprint_10;Corretiva;54.4;45.1;Alta;Média;300;16320.0;13530.0;-9.3;-2790.0
+HU_0085;BHPRO;Sprint_12;Evolutiva;31.4;22.0;Alta;Média;300;9420.0;6600.0;-9.4;-2820.0
+HU_0086;PORTAL_WEB;Sprint_8;Corretiva;20.4;16.8;Alta;Média;300;6120.0;5040.0;-3.6;-1080.0
+HU_0087;BHPRO;Sprint_5;Evolutiva;24.6;19.3;Baixa;Baixa;300;7380.0;5790.0;-5.3;-1590.0
+HU_0088;BHPRO;Sprint_7;Corretiva;15.9;14.5;Média;Média;300;4770.0;4350.0;-1.4;-420.0
+HU_0089;FINANCE_APP;Sprint_9;Evolutiva;29.6;27.2;Média;Média;300;8880.0;8160.0;-2.4;-720.0
+HU_0090;PORTAL_WEB;Sprint_12;Nova Funcionalidade;52.6;36.5;Média;Média;300;15780.0;10950.0;-16.1;-4830.0
+HU_0091;SIGEAR;Sprint_6;Evolutiva;47.2;31.1;Média;Alta;300;14160.0;9330.0;-16.1;-4830.0
+HU_0092;PORTAL_WEB;Sprint_13;Corretiva;54.7;44.0;Média;Média;300;16410.0;13200.0;-10.7;-3210.0
+HU_0093;GESTAO_RH;Sprint_1;Evolutiva;25.5;18.6;Média;Alta;300;7650.0;5580.0;-6.9;-2070.0
+HU_0094;BHPRO;Sprint_14;Evolutiva;55.8;33.9;Alta;Baixa;300;16740.0;10170.0;-21.9;-6570.0
+HU_0095;GESTAO_RH;Sprint_10;Corretiva;42.5;41.1;Média;Baixa;300;12750.0;12330.0;-1.4;-420.0
+HU_0096;GESTAO_RH;Sprint_3;Nova Funcionalidade;21.5;18.7;Média;Média;300;6450.0;5610.0;-2.8;-840.0
+HU_0097;FINANCE_APP;Sprint_13;Evolutiva;22.5;13.9;Média;Média;300;6750.0;4170.0;-8.6;-2580.0
+HU_0098;SIGEAR;Sprint_8;Nova Funcionalidade;46.9;45.9;Média;Baixa;300;14070.0;13770.0;-1.0;-300.0
+HU_0099;SIGEAR;Sprint_13;Corretiva;10.1;10.0;Baixa;Baixa;300;3030.0;3000.0;-0.1;-30.0
+HU_0100;SIGEAR;Sprint_10;Nova Funcionalidade;20.4;16.5;Baixa;Alta;300;6120.0;4950.0;-3.9;-1170.0
+HU_0101;BHPRO;Sprint_8;Corretiva;21.3;18.2;Alta;Alta;300;6390.0;5460.0;-3.1;-930.0
+HU_0102;SIGEAR;Sprint_13;Nova Funcionalidade;58.2;55.7;Baixa;Média;300;17460.0;16710.0;-2.5;-750.0
+HU_0103;PORTAL_WEB;Sprint_11;Evolutiva;28.6;20.4;Baixa;Alta;300;8580.0;6120.0;-8.2;-2460.0
+HU_0104;BHPRO;Sprint_2;Corretiva;48.2;31.8;Alta;Baixa;300;14460.0;9540.0;-16.4;-4920.0
+HU_0105;PORTAL_WEB;Sprint_13;Nova Funcionalidade;26.1;21.6;Média;Baixa;300;7830.0;6480.0;-4.5;-1350.0
+HU_0106;PORTAL_WEB;Sprint_11;Evolutiva;8.7;7.2;Média;Baixa;300;2610.0;2160.0;-1.5;-450.0
+HU_0107;GESTAO_RH;Sprint_6;Corretiva;54.4;44.4;Baixa;Média;300;16320.0;13320.0;-10.0;-3000.0
+HU_0108;BHPRO;Sprint_12;Corretiva;58.2;51.9;Alta;Média;300;17460.0;15570.0;-6.3;-1890.0
+HU_0109;GESTAO_RH;Sprint_7;Corretiva;38.8;33.8;Baixa;Baixa;300;11640.0;10140.0;-5.0;-1500.0
+HU_0110;FINANCE_APP;Sprint_15;Evolutiva;20.7;16.9;Alta;Alta;300;6210.0;5070.0;-3.8;-1140.0
+HU_0111;GESTAO_RH;Sprint_6;Nova Funcionalidade;33.7;29.3;Média;Baixa;300;10110.0;8790.0;-4.4;-1320.0
+HU_0112;FINANCE_APP;Sprint_13;Evolutiva;25.7;16.7;Alta;Média;300;7710.0;5010.0;-9.0;-2700.0
+HU_0113;PORTAL_WEB;Sprint_1;Corretiva;57.3;55.3;Alta;Média;300;17190.0;16590.0;-2.0;-600.0
+HU_0114;GESTAO_RH;Sprint_9;Nova Funcionalidade;43.9;32.6;Média;Média;300;13170.0;9780.0;-11.3;-3390.0
+HU_0115;SIGEAR;Sprint_2;Evolutiva;19.5;14.1;Média;Alta;300;5850.0;4230.0;-5.4;-1620.0
+HU_0116;PORTAL_WEB;Sprint_6;Evolutiva;36.8;31.7;Alta;Alta;300;11040.0;9510.0;-5.1;-1530.0
+HU_0117;FINANCE_APP;Sprint_6;Corretiva;31.6;27.7;Baixa;Baixa;300;9480.0;8310.0;-3.9;-1170.0
+HU_0118;BHPRO;Sprint_6;Nova Funcionalidade;46.6;28.9;Alta;Baixa;300;13980.0;8670.0;-17.7;-5310.0
+HU_0119;BHPRO;Sprint_4;Corretiva;33.2;23.6;Alta;Alta;300;9960.0;7080.0;-9.6;-2880.0
+HU_0120;FINANCE_APP;Sprint_2;Nova Funcionalidade;23.4;20.0;Média;Baixa;300;7020.0;6000.0;-3.4;-1020.0
